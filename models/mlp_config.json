@@ -1,0 +1,10 @@
+{
+    "input_size": 11,
+    "hidden_layers": [
+        64,
+        32
+    ],
+    "output_size": 1,
+    "activation": "ReLU",
+    "framework": "PyTorch"
+}
